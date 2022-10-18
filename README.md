@@ -30,6 +30,7 @@ To extract these CSV files 2 methods were used:
 - Python dictionary method. 
 - Regular expression method. 
 
+
 ### Step 2: Transform and Clean Data 
 
 Using Python, Pandas, and data cleaning strategies, we have transformed the data via formatting, splitting, converting data types, and restructuring to create DataFrames that can be loaded into a postgreSQL database as a CSV file.
